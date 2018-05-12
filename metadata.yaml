@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1186
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33454#Mathilde--m-moires-d-une-jeune-femme
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2010-08-17'
 gutenberg_type: Text
